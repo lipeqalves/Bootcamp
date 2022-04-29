@@ -8,5 +8,5 @@
 - Módulo	 II	  - HTML/CSS3 -> Em andamento...
 - Módulo	 III	- Javascript
 - Módulo	 IV	  - ReactJS
-- Módulo	 V	  -  Banco de Dados
+- Módulo	 V	  - Banco de Dados
 - Módulo	 VI	  - NodeJS

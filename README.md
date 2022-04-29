@@ -4,7 +4,7 @@
 - O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto e back-end.
 
 ### Trilha de Estudo
-- Módulo	 I	  - Logica de Programação -> Finalizado
+- Módulo	 I	  - Logica de Programação/Git-GitHub -> Finalizado
 - Módulo	 II	  - HTML/CSS3 -> Em andamento...
 - Módulo	 III	- Javascript
 - Módulo	 IV	  - ReactJS

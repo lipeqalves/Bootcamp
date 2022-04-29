@@ -6,4 +6,11 @@ em desenvolvimento de software com uma base sólida em tecnologias essenciais em
 
 ### Trilha do Bootcamp:
 
+- Módulo	 I	  - Logica/Git/Github >> Finalizado
+- Módulo	 II	  - HTML/CSS3         >> Em andamento ....
+- Módulo	 III	- Javascript
+- Módulo	 IV	  - ReactJS
+- Módulo	 V	  - Banco de Dados
+- Módulo	 VI	  - NodeJS
+
 

@@ -1,13 +1,16 @@
-//let tarefa = document.querySelector("#task-input")
-let adicionar = document.querySelector("#submit")
-//let entrada  = document.querySelector("#task-input");
-let saida    = document.querySelector("#tasks");
 
-adicionar.addEventListener("click",function(e){
+let adicionarItem = document.querySelector("#submit")
+let item = document.querySelector("#task-input");
+
+
+adicionarItem.addEventListener("click",function(e){
    e.preventDefault();
+  
+   let texto = document.createElement('p');
+   let saida = document.querySelector("#tasks");
+    //console.log(item);
+    texto.innerText = item.value;
+    saida.appendChild(texto);
 
-    let item = document.querySelector("#task-input").value;
-    console.log(item);
-    saida.innerHTML = item;
-
+item.value = "";
 });
